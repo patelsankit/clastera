@@ -1,0 +1,20 @@
+.heading-border{border-bottom-style: double;
+  border-color: #F58634;
+  width: 30%;}
+
+  .heading-border-center{ content: '';
+      display: block;
+      margin: auto;
+      border-bottom: double #F58634;
+    width:15%;
+    text-align: center !important;
+  }
+
+  .text-justify{text-align:justify}
+  .color-orange{color:#F58634 }
+  .color-black{color:#373435 !important }
+  .color-font-grey{color:#6d6d6d }
+  .pt{padding-top:100px }
+  .pb{padding-bottom:100px }
+  .packing tbody tr td {width:200px;padding:10px 5px}
+  .packing tbody tr th {background:#f7f7f7}
