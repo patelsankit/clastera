@@ -2,14 +2,13 @@
 
 @font-face {
   font-family: "hodyicons";
-  src:url("../fonts/hodyicons.eot");
-  src:url("../fonts/hodyiconsd41d.eot?#iefix") format("embedded-opentype"),
+  src: url("../fonts/hodyicons.eot");
+  src: url("../fonts/hodyiconsd41d.eot?#iefix") format("embedded-opentype"),
     url("../fonts/hodyicons.woff") format("woff"),
     url("../fonts/hodyicons.ttf") format("truetype"),
     url("../fonts/hodyicons.svg#hodyicons") format("svg");
   font-weight: normal;
   font-style: normal;
-
 }
 
 [data-icon] {
@@ -655,7 +654,7 @@
 }
 .hc-search:before {
   content: "\e0d2";
-  color: #f38433;
+  color: #0066b3;
 }
 .hc-pinterest:before {
   content: "\e0aa";
