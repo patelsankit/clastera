@@ -1636,6 +1636,7 @@ section.dark-bg .minimal-tabs > li.active > a:hover {
   padding: 0;
   font-size: 0;
   padding-top: 25px;
+   /* text-align: center; */
 }
 #topnav .navigation-menu > li {
   display: inline-block;
@@ -1674,7 +1675,14 @@ section.dark-bg .minimal-tabs > li.active > a:hover {
     padding-top: 20px;
     padding-bottom: 20px;
     min-height: 62px;
+  
+   
   }
+}
+@media (min-width: 992px) {
+ #topnav .navigation-menu {
+   text-align:center;
+}
 }
 #topnav .navigation-menu > li .submenu li a i {
   margin-right: 5px;
@@ -6680,7 +6688,7 @@ form.register {
   }
   #navigation {
     position: absolute !important;
-    top: 105px;
+    top: 100px;
     left: 0;
     width: 100%;
     display: none;
