@@ -7074,6 +7074,11 @@ form.register {
     opacity: 1;
     margin-top: 0;
   }
+    /* #topnav .navigation-menu li.newchildlist:hover .newchildlistsubmenu {
+    visibility: visible;
+    opacity: 1;
+    margin-top: 0;
+  } */
   #topnav
     .navigation-menu
     > li.menu-item-has-children:hover
