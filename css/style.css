@@ -4150,6 +4150,8 @@ textarea.wpcf7-form-control {
   transition: all 0.5s ease;
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
+  width: 250px;
+  height: 225px;
 }
 .product-thumb:hover img {
   -webkit-transform: scale(1.1);
@@ -7401,4 +7403,23 @@ form.register {
   position: fixed;
   right: 25px;
   z-index: 100 !important;
+}
+
+/* .float-right-og{
+  float: right !important;
+} */
+@media (min-width: 768px){ 
+  .float-right-og{
+    float: right !important;
+  }
+}
+
+@media (min-width: 992px){ 
+  .float-right{
+    float: right !important;
+  }
+}
+
+.text-uppercase{
+  text-transform: uppercase;
 }
