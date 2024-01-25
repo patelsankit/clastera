@@ -7423,3 +7423,16 @@ form.register {
 .text-uppercase{
   text-transform: uppercase;
 }
+
+.justify-contend-center{
+  justify-content: center;
+}
+.d-flex{
+  display: flex;
+}
+.font-montserat{
+  font-family: 'Montserrat', sans-serif;
+}
+.text-capitalize{
+  text-transform: capitalize;
+}
