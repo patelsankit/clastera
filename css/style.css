@@ -7436,3 +7436,28 @@ form.register {
 .text-capitalize{
   text-transform: capitalize;
 }
+
+
+.product-css-grid {
+  display: grid;
+  grid-template-columns: repeat(1, minmax(0, 1fr));
+  gap: 16px;
+}
+
+@media (min-width: 640px) {
+  .product-css-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (min-width: 768px) {
+  .product-css-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+
+@media (min-width: 1280px) {
+  .product-css-grid {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+}
