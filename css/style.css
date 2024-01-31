@@ -39,7 +39,7 @@
 */
 body {
   /* font-family: "Montserrat", sans-serif; */
-  font-family: 'Noto Sans', sans-serif;
+  font-family: "Noto Sans", sans-serif;
   color: #404c56;
   font-weight: 400;
   font-size: 16px;
@@ -70,7 +70,7 @@ h5,
 h6 {
   font-weight: 400;
   /* font-family: "Montserrat", sans-serif; */
-  font-family: 'Noto Sans', sans-serif;
+  font-family: "Noto Sans", sans-serif;
   color: #373435;
 }
 a {
@@ -86,7 +86,7 @@ a:focus {
 }
 a.small-link {
   /* font-family: "Montserrat", sans-serif; */
-  font-family: 'Noto Sans', sans-serif;
+  font-family: "Noto Sans", sans-serif;
   font-size: 11px;
   letter-spacing: 0.05em;
   font-weight: 500;
@@ -138,7 +138,7 @@ select {
 .table > thead > tr > th {
   border-bottom: 1px solid #e7e7e7;
   /* font-family: "Montserrat", sans-serif; */
-  font-family: 'Noto Sans', sans-serif;
+  font-family: "Noto Sans", sans-serif;
   font-size: 11px;
   font-weight: 400;
   letter-spacing: 1px;
@@ -270,7 +270,7 @@ section.page-title .title h1.upper {
 }
 .title > h4 {
   /* font-family: "Montserrat", sans-serif; */
-  font-family: 'Noto Sans', sans-serif;
+  font-family: "Noto Sans", sans-serif;
   font-size: 18px;
   margin-top: 10px;
   line-height: 26px;
@@ -340,7 +340,7 @@ section.dark-bg .title > hr {
   transition: all 0.3s ease;
   font-weight: 500;
   /* font-family: "Montserrat", sans-serif; */
-  font-family: 'Noto Sans', sans-serif;
+  font-family: "Noto Sans", sans-serif;
 }
 .btn + .btn {
   margin-left: 10px;
@@ -664,7 +664,7 @@ section.dark-bg .title > hr {
   color: inherit;
   text-transform: uppercase;
   /* font-family: "Montserrat", sans-serif; */
-  font-family: 'Noto Sans', sans-serif;
+  font-family: "Noto Sans", sans-serif;
 }
 #testimonials-slider .slides img {
   width: 80px;
@@ -1305,7 +1305,7 @@ section.dark-bg .counter > span {
   border-radius: 0;
   color: #00192d;
   /* font-family: "Montserrat", sans-serif; */
-  font-family: 'Noto Sans', sans-serif;
+  font-family: "Noto Sans", sans-serif;
   font-weight: 500;
   background-color: #f4f4f4;
   border: 0;
@@ -1340,7 +1340,7 @@ section.dark-bg .counter > span {
   font-weight: 500;
   color: #00192d;
   /* font-family: "Montserrat", sans-serif; */
-  font-family: 'Noto Sans', sans-serif;
+  font-family: "Noto Sans", sans-serif;
   border: 0;
   border-bottom: 1px solid #ddd;
   margin-right: 0;
@@ -1394,7 +1394,7 @@ section.dark-bg .counter > span {
   color: #00192d;
 
   /* font-family: "Montserrat", sans-serif; */
-  font-family: 'Noto Sans', sans-serif;
+  font-family: "Noto Sans", sans-serif;
   background-color: transparent;
   border: 0;
   margin-right: 0;
@@ -1636,7 +1636,7 @@ section.dark-bg .minimal-tabs > li.active > a:hover {
   padding: 0;
   font-size: 0;
   padding-top: 25px;
-   /* text-align: center; */
+  /* text-align: center; */
 }
 #topnav .navigation-menu > li {
   display: inline-block;
@@ -1657,7 +1657,7 @@ section.dark-bg .minimal-tabs > li.active > a:hover {
   font-size: 11px;
   text-transform: uppercase;
   /* font-family: "Montserrat", sans-serif; */
-  font-family: 'Noto Sans', sans-serif;
+  font-family: "Noto Sans", sans-serif;
   letter-spacing: 0.1em;
   font-weight: 600;
   -webkit-transition: all 0.3s ease;
@@ -1675,14 +1675,12 @@ section.dark-bg .minimal-tabs > li.active > a:hover {
     padding-top: 20px;
     padding-bottom: 20px;
     min-height: 62px;
-  
-   
   }
 }
 @media (min-width: 992px) {
- #topnav .navigation-menu {
-   text-align:center;
-}
+  #topnav .navigation-menu {
+    text-align: center;
+  }
 }
 #topnav .navigation-menu > li .submenu li a i {
   margin-right: 5px;
@@ -1703,7 +1701,7 @@ section.dark-bg .minimal-tabs > li.active > a:hover {
 .dylan-site-name {
   color: #fff;
   /* font-family: "Montserrat", sans-serif; */
-  font-family: 'Noto Sans', sans-serif;
+  font-family: "Noto Sans", sans-serif;
   text-transform: uppercase;
   font-weight: 700;
   font-size: 28px;
@@ -1781,7 +1779,7 @@ section.dark-bg .minimal-tabs > li.active > a:hover {
 }
 .shopping-cart .product-list li .product-summary a {
   /* font-family: "Montserrat", sans-serif; */
-  font-family: 'Noto Sans', sans-serif;
+  font-family: "Noto Sans", sans-serif;
   font-size: 13px;
 }
 .shopping-cart .product-list li .product-summary a:hover {
@@ -2358,7 +2356,7 @@ section.dark-bg .minimal-tabs > li.active > a:hover {
   margin: 25px 0;
   font-size: 18px;
   /* font-family: "Montserrat", sans-serif; */
-  font-family: 'Noto Sans', sans-serif;
+  font-family: "Noto Sans", sans-serif;
 }
 .slide-content h5.serif {
   font-size: 20px;
@@ -2819,7 +2817,7 @@ section.dark-bg .text-box.outlined {
 }
 #filters li {
   /* font-family: "Montserrat", sans-serif; */
-  font-family: 'Noto Sans', sans-serif;
+  font-family: "Noto Sans", sans-serif;
   display: inline-block;
   position: relative;
   padding: 8px;
@@ -3376,7 +3374,7 @@ section.dark-bg .timeline .timeline-content:before {
   font-size: 11px;
   text-transform: uppercase;
   /* font-family: "Montserrat", sans-serif; */
-  font-family: 'Noto Sans', sans-serif;
+  font-family: "Noto Sans", sans-serif;
   letter-spacing: 0.05em;
 }
 .timeline > li .timeline-content span b:after {
@@ -4196,7 +4194,7 @@ textarea.wpcf7-form-control {
   padding: 15px 20px;
   text-transform: uppercase;
   /* font-family: "Montserrat", sans-serif; */
-  font-family: 'Noto Sans', sans-serif;
+  font-family: "Noto Sans", sans-serif;
   font-size: 12px;
   letter-spacing: 0.1em;
   color: #fff;
@@ -4234,7 +4232,7 @@ textarea.wpcf7-form-control {
   padding: 15px 20px;
   text-transform: uppercase;
   /* font-family: "Montserrat", sans-serif; */
-  font-family: 'Noto Sans', sans-serif;
+  font-family: "Noto Sans", sans-serif;
   font-size: 12px;
   letter-spacing: 0.1em;
   color: #fff;
@@ -4272,7 +4270,7 @@ textarea.wpcf7-form-control {
   font-size: 13px;
   font-weight: 400;
   /* font-family: "Montserrat", sans-serif; */
-  font-family: 'Noto Sans', sans-serif;
+  font-family: "Noto Sans", sans-serif;
 }
 .product-info > span ins {
   text-decoration: none;
@@ -4294,7 +4292,7 @@ textarea.wpcf7-form-control {
   border-bottom: 1px solid #e6e6e6;
   font-size: 13px;
   /* font-family: "Montserrat", sans-serif; */
-  font-family: 'Noto Sans', sans-serif;
+  font-family: "Noto Sans", sans-serif;
   color: #00192d;
   font-weight: 400;
   padding: 15px 20px;
@@ -4305,7 +4303,7 @@ textarea.wpcf7-form-control {
   vertical-align: middle;
   font-size: 16px;
   /* font-family: "Montserrat", sans-serif; */
-  font-family: 'Noto Sans', sans-serif;
+  font-family: "Noto Sans", sans-serif;
   font-weight: 400;
   border-bottom: 1px solid;
   border-color: #e6e6e6;
@@ -4415,7 +4413,7 @@ textarea.wpcf7-form-control {
   display: block;
   color: #00192d;
   /* font-family: "Montserrat", sans-serif; */
-  font-family: 'Noto Sans', sans-serif;
+  font-family: "Noto Sans", sans-serif;
   font-weight: 400 !important;
   font-size: 14px;
 }
@@ -4427,7 +4425,7 @@ textarea.wpcf7-form-control {
 .product_list_widget li .product-summary span {
   color: #939393;
   /* font-family: "Montserrat", sans-serif; */
-  font-family: 'Noto Sans', sans-serif;
+  font-family: "Noto Sans", sans-serif;
   font-size: 12px;
   letter-spacing: 1px;
 }
@@ -4513,7 +4511,7 @@ textarea.wpcf7-form-control {
 .single-product-add .inline-form .form-control {
   font-size: 13px;
   /* font-family: "Montserrat", sans-serif; */
-  font-family: 'Noto Sans', sans-serif;
+  font-family: "Noto Sans", sans-serif;
   padding: 0 15px;
   text-align: center;
   margin-right: 10px;
@@ -4561,7 +4559,7 @@ textarea.wpcf7-form-control {
   display: inline-block;
   padding: 5px 0;
   /* font-family: "Montserrat", sans-serif; */
-  font-family: 'Noto Sans', sans-serif;
+  font-family: "Noto Sans", sans-serif;
   color: #00192d;
   text-transform: uppercase;
   font-size: 11px;
@@ -4571,7 +4569,7 @@ textarea.wpcf7-form-control {
 .single-product-list .product_meta p > a {
   color: #404c56;
   /* font-family: "Montserrat", sans-serif; */
-  font-family: 'Noto Sans', sans-serif;
+  font-family: "Noto Sans", sans-serif;
   text-transform: none;
   letter-spacing: 0;
   font-size: 13px;
@@ -4667,7 +4665,7 @@ textarea.wpcf7-form-control {
   text-transform: uppercase;
   font-size: 13px;
   /* font-family: "Montserrat", sans-serif; */
-  font-family: 'Noto Sans', sans-serif;
+  font-family: "Noto Sans", sans-serif;
   font-weight: 500;
   letter-spacing: 1px;
 }
@@ -5023,7 +5021,7 @@ form.register {
   border-radius: 50% !important;
   line-height: 36px;
   /* font-family: "Montserrat", sans-serif; */
-  font-family: 'Noto Sans', sans-serif;
+  font-family: "Noto Sans", sans-serif;
   font-size: 11px;
   color: #00192d;
   border: 1px solid #e6e6e6;
@@ -5110,7 +5108,7 @@ form.register {
 }
 #sidebar .widget ul > li > a {
   /* font-family: "Montserrat", sans-serif; */
-  font-family: 'Noto Sans', sans-serif;
+  font-family: "Noto Sans", sans-serif;
   color: #00192d;
   font-size: 13px;
 }
@@ -5151,7 +5149,7 @@ form.register {
   text-transform: uppercase;
   letter-spacing: 0.1em;
   /* font-family: "Montserrat", sans-serif; */
-  font-family: 'Noto Sans', sans-serif;
+  font-family: "Noto Sans", sans-serif;
   -webkit-transition: all 0.3s ease;
   transition: all 0.3s ease;
   font-weight: 500;
@@ -5364,7 +5362,7 @@ form.register {
   transition: all 0.3s ease;
   font-weight: 500;
   /* font-family: "Montserrat", sans-serif; */
-  font-family: 'Noto Sans', sans-serif;
+  font-family: "Noto Sans", sans-serif;
   color: #fff;
   border-color: #0066b3;
   background-color: #0066b3;
@@ -5545,7 +5543,7 @@ form.register {
 }
 .blog-grid-wrapper .grid-post article .grid-post-content .grid-post-date {
   /* font-family: "Montserrat", sans-serif; */
-  font-family: 'Noto Sans', sans-serif;
+  font-family: "Noto Sans", sans-serif;
   text-transform: uppercase;
   font-size: 11px;
 }
@@ -5560,7 +5558,7 @@ form.register {
 }
 .blog-grid-wrapper .grid-post article .grid-post-content .grid-post-author {
   /* font-family: "Montserrat", sans-serif; */
-  font-family: 'Noto Sans', sans-serif;
+  font-family: "Noto Sans", sans-serif;
   text-transform: uppercase;
   font-size: 11px;
   margin-left: 5px;
@@ -5760,7 +5758,7 @@ form.register {
   font-size: 11px;
   letter-spacing: 0.1em;
   /* font-family: "Montserrat", sans-serif; */
-  font-family: 'Noto Sans', sans-serif;
+  font-family: "Noto Sans", sans-serif;
   display: inline-block;
 }
 .countdown span {
@@ -6212,12 +6210,12 @@ form.register {
 }
 .heading-font {
   /* font-family: "Montserrat", sans-serif; */
-  font-family: 'Noto Sans', sans-serif;
+  font-family: "Noto Sans", sans-serif;
   letter-spacing: 0.02em;
 }
 .serif {
   /* font-family: "Montserrat", sans-serif; */
-  font-family: 'Noto Sans', sans-serif;
+  font-family: "Noto Sans", sans-serif;
 }
 .serif h1,
 .serif h2,
@@ -6315,7 +6313,7 @@ form.register {
     font-size: 11px;
     text-transform: uppercase;
     /* font-family: "Montserrat", sans-serif; */
-    font-family: 'Noto Sans', sans-serif;
+    font-family: "Noto Sans", sans-serif;
     letter-spacing: 0.1em;
     -webkit-transition: all 0.3s ease;
     transition: all 0.3s ease;
@@ -6607,7 +6605,7 @@ form.register {
   }
   #topnav .navigation-menu > li .submenu li span {
     /* font-family: "Montserrat", sans-serif; */
-    font-family: 'Noto Sans', sans-serif;
+    font-family: "Noto Sans", sans-serif;
     display: block;
     padding: 8px 25px;
     clear: both;
@@ -6798,7 +6796,7 @@ form.register {
   }
   #aside-nav .navigation-menu > li .submenu li > span {
     /* font-family: "Montserrat", sans-serif; */
-    font-family: 'Noto Sans', sans-serif;
+    font-family: "Noto Sans", sans-serif;
     cursor: default;
     pointer-events: none;
     display: block;
@@ -6832,7 +6830,7 @@ form.register {
   }
   #aside-nav .navigation-menu > li .submenu.megamenu > li > ul > li > span {
     /* font-family: "Montserrat", sans-serif; */
-    font-family: 'Noto Sans', sans-serif;
+    font-family: "Noto Sans", sans-serif;
     display: block;
     position: relative;
     padding: 15px;
@@ -7076,7 +7074,7 @@ form.register {
     opacity: 1;
     margin-top: 0;
   }
-    /* #topnav .navigation-menu li.newchildlist:hover .newchildlistsubmenu {
+  /* #topnav .navigation-menu li.newchildlist:hover .newchildlistsubmenu {
     visibility: visible;
     opacity: 1;
     margin-top: 0;
@@ -7408,35 +7406,34 @@ form.register {
 /* .float-right-og{
   float: right !important;
 } */
-@media (min-width: 768px){ 
-  .float-right-og{
+@media (min-width: 768px) {
+  .float-right-og {
     float: right !important;
   }
 }
 
-@media (min-width: 992px){ 
-  .float-right{
+@media (min-width: 992px) {
+  .float-right {
     float: right !important;
   }
 }
 
-.text-uppercase{
+.text-uppercase {
   text-transform: uppercase;
 }
 
-.justify-contend-center{
+.justify-contend-center {
   justify-content: center;
 }
-.d-flex{
+.d-flex {
   display: flex;
 }
-.font-montserat{
-  font-family: 'Montserrat', sans-serif;
+.font-montserat {
+  font-family: "Montserrat", sans-serif;
 }
-.text-capitalize{
+.text-capitalize {
   text-transform: capitalize;
 }
-
 
 .product-css-grid {
   display: grid;
@@ -7459,5 +7456,23 @@ form.register {
 @media (min-width: 1280px) {
   .product-css-grid {
     grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+}
+
+.product-css-grid-3 {
+  display: grid;
+  grid-template-columns: repeat(1, minmax(0, 1fr));
+  gap: 16px;
+}
+
+@media (min-width: 640px) {
+  .product-css-grid-3 {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (min-width: 768px) {
+  .product-css-grid-3 {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
   }
 }
